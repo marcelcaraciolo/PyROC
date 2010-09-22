@@ -1,0 +1,20 @@
+###############################
+PyRoc 0.1
+By Marcel Pinheiro Caraciolo (caraciol@gmail.com)
+License: Apache General License
+Based on the work by Eithon Cadag (http://www.eithoncadag.com/files/pyroc.txt)
+###############################
+
+
+The goal of PyROC is to generate and calculate the area under the receive operating characteristic curve, given a dataset.
+
+To install it, download the library pyroc.py and use it at your code.
+
+* You can use it by import the module : import pyroc
+
+OR
+
+* You can use it by running it by the console python pyroc.py  arguments.  See python pyroc --help for more instructions.
+
+NOTE: To plot the ROC curve, please install the library MATPLOTLIB available on: http://matplotlib.sourceforge.net/
+
